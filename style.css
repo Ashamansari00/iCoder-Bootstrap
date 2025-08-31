@@ -1,0 +1,6 @@
+
+#carouselExampleCaptions img {
+  height: 500px;       /* same as container */
+  object-fit:cover;   /* crop image to fit */
+  opacity: 0.96;
+}
